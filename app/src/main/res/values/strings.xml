@@ -1,0 +1,41 @@
+<resources>
+    <string name="home">Home</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="height">Height (m)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="lbl_under">Underweight (below 18.5)</string>
+    <string name="lbl_normal">Normal weight (below 18.5 to 24.9)</string>
+    <string name="lbl_over">Overweight (24.9 to 29.9)</string>
+    <string name="lbl_obese">Obese (30 and above)</string>
+    <string name="txt_result">Your BMI result</string>
+    <string name="under">UNDERWEIGHT</string>
+    <string name="normal">NORMAL</string>
+    <string name="over">OVERWEIGHT</string>
+    <string name="obese">OBESITY</string>
+    <string name="default_result">0</string>
+    <string name="information">Information</string>
+    <string name="na">Not Available</string>
+    <string name="record">RecordDB</string>
+    <string name="hw">Click to Choose Date</string>
+    <string name="cm">Choose Date</string>
+    <string name="spinner">Choose Months</string>
+
+    <string-array name="spinner">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string name="delete_all">DELETE ALL</string>
+
+</resources>
